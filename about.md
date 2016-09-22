@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hossain-mohd-faysal/index.html
-title: HOSSAIN MOHAMMAD FAYSAL
+permalink: /about/index.html
+title: About Team 5057
 tags: [Hossain, Mohd, Faysal, hmfaysal]
 image:
   feature: Hossain-Mohd-Faysal.jpg

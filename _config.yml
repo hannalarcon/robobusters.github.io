@@ -1,5 +1,5 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            FRC Team 5057
+description:      "We are the Robobusters"
 logo:             logo3.png
 disqus_shortname: hmfaysal
 share:            true
@@ -44,9 +44,9 @@ links:
     url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Chicago
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
@@ -70,8 +70,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://robobusters.github.io/'
+  relativeLinks: 'http://robobusters.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:

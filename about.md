@@ -4,10 +4,10 @@ permalink: /about/index.html
 title: About Team 5057
 tags: [Hossain, Mohd, Faysal, hmfaysal]
 image:
-  feature: Hossain-Mohd-Faysal.jpg
+  feature: Team.jpg
 ---
 
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
+  <img src="{{ site.url }}/images/team.jpg" alt="Team">
 
 
 My name is **Hossain Mohd. Faysal**, and this is my personal blog.  

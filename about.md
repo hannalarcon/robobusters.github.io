@@ -7,7 +7,7 @@ image:
   feature: Team.jpg
 ---
 
-  <img src="{{ site.url }}/images/team.jpg" alt="Team">
+  <img src="{{ site.url }}/images/Team.jpg" alt="Team">
 
 
 My name is **Hossain Mohd. Faysal**, and this is my personal blog.  

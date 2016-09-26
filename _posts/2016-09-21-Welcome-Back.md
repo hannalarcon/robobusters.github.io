@@ -36,4 +36,4 @@ both funding and mentors to assist us on our journey.
 Over all, we made great progress during this meeting. We hope to continue working hard so that we are prepared for this year's
 competition. Never forget: Gracious Professionalism!
 
-Written By: Abhi Bhattaru
+Written By: Abhijit Bhattaru

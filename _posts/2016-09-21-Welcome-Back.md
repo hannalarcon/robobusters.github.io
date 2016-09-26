@@ -29,6 +29,8 @@ so we could start planning designs and code next week. The blue alliance followe
 next meeting. Both teams created a similar design of focusing on a microbot to scale the tower due to points/second efficiency
 as well as shooting for the top row of the logo.
 
+![Picture](robobusters.github.io/images/FirstMeetingPicture.jpg "Design created by red alliance")
+
 Over on the buisness team, the division lead, Andre, showed everyone what they would be doing on the buisness team. He showed
 that FRC teams apply for grants to major companies(such as NASA and the Texas Workforce Commision) so that our team can get
 both funding and mentors to assist us on our journey. 

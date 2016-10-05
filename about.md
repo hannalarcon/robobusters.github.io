@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About Team 5057
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+tags: [about]
 image:
   feature: Team.JPG
 ---

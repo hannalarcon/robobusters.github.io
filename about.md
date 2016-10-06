@@ -8,6 +8,8 @@ image:
 ---
 
   <img src="{{ site.url }}/images/Team.JPG" alt="Team">
+
+
 What is FIRST?
 
 FIRST stands for “For the Inspiration and Recognition of Science and Technology”. It is a world-wide organization created to inspire young people to explore science, technology, engineering, and math. It was started by Dean Kamen, an inventor, entrepreneur, and tireless advocate for science and technology. 

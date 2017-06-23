@@ -3,7 +3,6 @@ layout: post
 title: Fixing the Robot
 description: "Changing Programming Languages"
 headline: ""
-categories: personal
 tags: 
   - blogging
   - jekyll

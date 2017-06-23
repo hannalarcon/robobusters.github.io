@@ -3,7 +3,6 @@ layout: post
 title: Brainstorming Session!
 description: "Creation of designs"
 headline: ""
-categories: personal
 tags: 
   - blogging
   - jekyll

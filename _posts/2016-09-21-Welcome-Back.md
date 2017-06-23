@@ -3,7 +3,6 @@ layout: post
 title: Welcome Back!
 description: "New year, new team"
 headline: ""
-categories: personal
 tags: 
   - blogging
   - jekyll

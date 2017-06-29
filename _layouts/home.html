@@ -2,8 +2,22 @@
 <html>
 <head>
 {% include head.html %}
+<script>
+    function youtub(){
+        if ( window.addEventListener ) {  
+                var state = 0, worlds = [38,38,40,40,37,39,37,39,66,65];  
+                window.addEventListener("keydown", function(e) {  
+                 if ( e.keyCode == worlds[state] ) state++;  
+                 else state = 0;  
+                 if ( state == 10 )  
+                 window.open("https://www.youtube.com/watch?v=4Riw81uwmpU"); 
+                 }, true);  
+        }  
+    }    
+</script>        
+   
 </head>
-<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
+<body class="home-template" itemscope itemtype="http://schema.org/WebPage"  onload = "youtub()">
 <header class="summer-site-head">
     <div class="summer-site-head-menu">
         <a class="summer-blog-logo" href="{{ site.url }}"><img src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a>

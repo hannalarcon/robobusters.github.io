@@ -18,7 +18,7 @@
    
 </head>
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage"  onload = "youtub()">
-<header class="summer-site-head" >
+<header class="summer-site-head">
     <div class="summer-site-head-menu">
         <a class="summer-blog-logo" href="{{ site.url }}"><img src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" /></a>
         <a class="summer-blog-logo" href="{{ site.url }}"><img src="{{ site.url }}/images/ROBOLOGO.png" alt="Robo Logo" height="90px" width="90px"/></a>
@@ -34,7 +34,7 @@
         </li>
 {% for link in site.links %}
             <li>{% if link.external %}
-            <a href="{{ link.url }}" >{{ link.title }}</a>
+            <a href="{{ link.url }}">{{ link.title }}</a>
             {% else %}
             <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
             {% endif %} </li>

@@ -64,7 +64,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://robobusters.github.io/'
+  siteurl: 'http://robobusters.github.io/blog'
   relativeLinks: 'http://robobusters.github.io/links.jsonp'
   media: 'images'
   metadata:

@@ -32,6 +32,8 @@ links:
     icon: home
   - title: About
     url: /about
+  - title: Contact
+    url: /contact
   - title: Sign Up
     url: /sign-up
 
